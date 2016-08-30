@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Wendy
 abcd
+=======
+Hi!
+>>>>>>> e37a9c55c9b91dd41b68b6b2f8ec82446e68ff58
